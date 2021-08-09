@@ -11,7 +11,7 @@
 }
 .contact-content::after
 {
-    background-image:url('img/articlesbg.jfif');
+    background-image:url('/img/articlesbg.jfif');
     background-repeat: no-repeat;
     background-size: cover;
     content:"";
